@@ -1,1 +1,4 @@
-#include "custom\PilotHUD\dialog.hpp"
+class RscTitles
+{
+	#include "custom\PilotHUD\dialog.hpp"
+};
